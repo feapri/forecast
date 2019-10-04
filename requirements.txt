@@ -12,3 +12,5 @@ sklearn
 statistics
 statsmodels
 theano
+mkl
+mkl-service
