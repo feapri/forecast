@@ -1,0 +1,14 @@
+arviz
+IPython
+matplotlib
+numpy
+pandas
+pandas_profiling
+pillow
+pymc3
+scipy
+seaborn
+sklearn
+statistics
+statsmodels
+theano
