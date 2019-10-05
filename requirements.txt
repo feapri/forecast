@@ -14,3 +14,4 @@ statsmodels
 theano
 mkl
 mkl-service
+blas
